@@ -33,6 +33,8 @@ gem 'rake', '< 11.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bower-rails'
+gem 'angular-rails-templates'
+
 gem 'foreman'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
